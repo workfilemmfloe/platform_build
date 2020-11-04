@@ -9,3 +9,12 @@
 # capitalized by convention.
 
 BUILD_ID=ANDROIDX
+function add(a, b){
+return a+b;
+}
+
+undefined
+
+>> add(10, 20)
+
+30
